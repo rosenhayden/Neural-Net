@@ -1,3 +1,4 @@
+## NN from Scratch
 A configurable multilayer perceptron for classification and regression, including backpropagation,
 Glorot initialization and a command-line layer-spec parser
 
